@@ -1,5 +1,5 @@
 <h1 align="center">Yo 👋, I'm Benny Chrispin</h1>
-<h3 align="center">i'm top-tier React Native Developer from Rwanda-Kigali</h3>
+<h3 align="center">i'm Top-tier React Native Developer from Rwanda-Kigali</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nkusibeni23&label=Profile%20views&color=0e75b6&style=flat" alt="nkusibeni23" /> </p>
 
