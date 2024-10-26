@@ -1,5 +1,5 @@
-<h1 align="center">Yo 👋, I'm Benny Chrispin</h1>
-<h3 align="center">i'm Top-tier React Native Developer from Rwanda-Kigali</h3>
+<h1 align="center">Yo 👋, I'm Ndizihiwe Benny Chrispin</h1>
+<h3 align="center">i'm Top-tier Frontend Engineer and React Native Developer from Rwanda</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nkusibeni23&label=Profile%20views&color=0e75b6&style=flat" alt="nkusibeni23" /> </p>
 
@@ -7,13 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/nkusibeni_" target="blank"><img src="https://img.shields.io/twitter/follow/nkusibeni_?logo=twitter&style=for-the-badge" alt="nkusibeni_" /></a> </p>
 
-- 🔭 I’m currently working as **Passionate Freelance**
-
-- 🌱 I’m currently learning **DevOps and Machine Learning**
 
 - 👯 I’m looking to collaborate for **Any available open source project**
 
-- 💬 Ask me about **MERN Stack and React Native**
+- 💬 Ask me about **Frontend Engineering and React Native**
   
 - 👨🏾‍💻 I have always been drawn to the power and potential of open source technology, and I am passionate about contributing to and learning from the amazing community of developers on GitHub.
 
