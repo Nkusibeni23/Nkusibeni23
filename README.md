@@ -1,13 +1,6 @@
 <h1 align="center">Yo 👋, I'm Ndizihiwe Benny Chrispin</h1>
 <h3 align="center">i'm Sotware Engineer and React Native Developer from Rwanda</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nkusibeni23&label=Profile%20views&color=0e75b6&style=flat" alt="nkusibeni23" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nkusibeni23" alt="nkusibeni23" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/nkusibeni_" target="blank"><img src="https://img.shields.io/twitter/follow/nkusibeni_?logo=twitter&style=for-the-badge" alt="nkusibeni_" /></a> </p>
-
-
 - 👯 I’m looking to collaborate for **Any available open source project**
 
 - 💬 Ask me about **Software Engineering and React Native**
