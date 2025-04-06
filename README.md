@@ -1,5 +1,5 @@
 <h1 align="center">Yo 👋, I'm Ndizihiwe Benny Chrispin</h1>
-<h3 align="center">i'm Sotware Engineer and React Native Developer from Rwanda</h3>
+<h3 align="center">i'm Sotware Engineer and React Native Developer</h3>
 
 - 👯 I’m looking to collaborate for **Any available open source project**
 
