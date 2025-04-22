@@ -7,7 +7,7 @@
   
 - 👨🏾‍💻 I have always been drawn to the power and potential of open source technology, and I am passionate about contributing to and learning from the amazing community of developers on GitHub.
 
-If you have any questions or just want to chat about MERN, React Native and Open source development, don't hesitate to reach out! I'm always happy to connect with like-minded developers and collaborate on new ideas.
+If you have any questions React Native and Open source development, don't hesitate to reach out! I'm always happy to connect with like-minded developers and collaborate on new ideas.
 
 - 📫 How to reach me **ndizibaidu23@gmail.com**
 
