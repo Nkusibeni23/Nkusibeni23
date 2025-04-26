@@ -14,7 +14,7 @@
 
 **Fun Fact:**  
 If you ever catch me "doing nothing," I'm probably optimizing 1,000 things in my head.  
-Efficiency is an art — and I’m Picasso with it.
+Efficiency is an art and I’m Picasso with it.
 
 
 
