@@ -16,10 +16,5 @@
 If you ever catch me "doing nothing," I'm probably optimizing 1,000 things in my head.  
 Efficiency is an art — and I’m Picasso with it.
 
----
-
-> *"Why work harder when you can work smarter and still crush it?"* 🚀
-
-
 
 
