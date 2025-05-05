@@ -1,4 +1,4 @@
-<h1 align="center">Yo 👋, I'm Ndizihiwe Benny Chrispin</h1>
+<h1 align="center">Yo 👋, I'm Ndizihiwe Nkusi Benny Chrispin</h1>
 <h3 align="center">🚀 I'm a Rockstar Software Engineer 🚀</h3>
 
 ---
