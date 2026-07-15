@@ -5,7 +5,7 @@
 
 🌟 *"I'm not lazy — I'm just highly efficient."* 🌟
 
-- 👨‍💻 Currently building awesome things with **React Native** & **Next.js**  
+- 👨‍💻 Passionate about building technology that makes a difference 
 - 👯 Always open to collaborate on **cool open-source projects**  
 - 🧠 You can pick my brain about **Software Engineering, React Native, Nextjs, Angular, System Design, or just why tabs are better than spaces.**  
 - 🎨 ... I'll spend some more time on this page soon 😅
