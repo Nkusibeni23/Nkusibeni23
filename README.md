@@ -7,7 +7,7 @@
 
 - 👨‍💻 Passionate about building technology that makes a difference 
 - 👯 Always open to collaborate on **cool open-source projects**  
-- 🧠 You can pick my brain about **Software Engineering, React Native, Nextjs, Angular, System Design, or just why tabs are better than spaces.**  
+- 🧠 You can pick my brain about Software Engineering, System Design, Architecture, and building scalable applications or just why tabs are better than spaces.
 - 🎨 ... I'll spend some more time on this page soon 😅
 
 ---
